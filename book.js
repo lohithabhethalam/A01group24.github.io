@@ -1,4 +1,5 @@
-function book()
+
+function bookground()
 {
 
 let name = document.getElementById("name").value;
@@ -17,7 +18,7 @@ else{
 
     let duration = parseInt(time) + parseInt(hours);
     let amount = parseInt(hours)*10;
-alert("booking confirmed");
+//alert("booking conformed");
 
 alert("booking confirmed\n"+"Name: "+name+"\n Email: "+email+"\nDate: "+ date+"\nFrom: "+time+"\nTo: "+duration+"\n Team1 Captain: "+team1+"\nTeam2 Captain: "+team2+"\n Amount to be paid: $ "+amount);
 
