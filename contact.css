@@ -2,11 +2,19 @@ body{
     margin:0;
     padding:0;
     text-align: center;
-    background: url(contact.jpg);
+    background: url(rename.jpg);
     background-size: cover;
     background-position: center;
     font-family: 'Times New Roman', Times, serif;
 
+}
+p{
+    color: #fff;
+
+}
+a{
+    color: #fff;
+    
 }
 .contactUs{
 margin-top: 100px;
