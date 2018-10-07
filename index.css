@@ -9,7 +9,12 @@ body{
     font-family: 'Times New Roman', Times, serif;
    
 }
-
+#a{
+font-size: 18px;
+}
+#b{
+    font-size: 18px;
+}
 #present-section{
     color: #000;
     display:block;
